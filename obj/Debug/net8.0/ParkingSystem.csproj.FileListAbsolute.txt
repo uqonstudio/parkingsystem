@@ -1,0 +1,14 @@
+/home/uqons/Documents/ntt/ParkingSystem/bin/Debug/net8.0/ParkingSystem
+/home/uqons/Documents/ntt/ParkingSystem/bin/Debug/net8.0/ParkingSystem.deps.json
+/home/uqons/Documents/ntt/ParkingSystem/bin/Debug/net8.0/ParkingSystem.runtimeconfig.json
+/home/uqons/Documents/ntt/ParkingSystem/bin/Debug/net8.0/ParkingSystem.dll
+/home/uqons/Documents/ntt/ParkingSystem/bin/Debug/net8.0/ParkingSystem.pdb
+/home/uqons/Documents/ntt/ParkingSystem/obj/Debug/net8.0/ParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/uqons/Documents/ntt/ParkingSystem/obj/Debug/net8.0/ParkingSystem.AssemblyInfoInputs.cache
+/home/uqons/Documents/ntt/ParkingSystem/obj/Debug/net8.0/ParkingSystem.AssemblyInfo.cs
+/home/uqons/Documents/ntt/ParkingSystem/obj/Debug/net8.0/ParkingSystem.csproj.CoreCompileInputs.cache
+/home/uqons/Documents/ntt/ParkingSystem/obj/Debug/net8.0/ParkingSystem.dll
+/home/uqons/Documents/ntt/ParkingSystem/obj/Debug/net8.0/refint/ParkingSystem.dll
+/home/uqons/Documents/ntt/ParkingSystem/obj/Debug/net8.0/ParkingSystem.pdb
+/home/uqons/Documents/ntt/ParkingSystem/obj/Debug/net8.0/ParkingSystem.genruntimeconfig.cache
+/home/uqons/Documents/ntt/ParkingSystem/obj/Debug/net8.0/ref/ParkingSystem.dll
